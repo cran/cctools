@@ -1,4 +1,4 @@
-c49ae2649eb482cb11f65e3bf3357174 *DESCRIPTION
+4f770cb01eff3658f9000099fef12856 *DESCRIPTION
 dfa8bd663b97fdd6d2e44244ec2e4871 *NAMESPACE
 9a2449521b66d80039408d3bfb287345 *NEWS.md
 7076c13e0ca9a7ef791151c176a2ecee *R/RcppExports.R
@@ -23,4 +23,4 @@ e920bc1bed87be53e815435ec5bea69e *tests/testthat.R
 f67aaed54759bc8dd91327aec24d1c4d *tests/testthat/test-cckde.R
 cef84ca387828dd067452250ca0b9823 *tests/testthat/test-cont_conv.R
 facbccfb97e215c20dc5cf68c1a820ca *tests/testthat/test-expansions.R
-fa1a0479648976fe71deb0a4002202ca *tests/testthat/test-usb.R
+d008ecbcbb0de1ec3decc1eccc8e38b5 *tests/testthat/test-usb.R
