@@ -1,9 +1,7 @@
 # cctools
-[![Build status Linux](https://travis-ci.org/tnagler/cctools.svg?branch=master)](https://travis-ci.org/tnagler/cctools)
-[![Build status Windows](https://ci.appveyor.com/api/projects/status/github/tnagler/cctools?branch=master&svg=true)](https://ci.appveyor.com/project/tnagler/cctools)
-[![codecov.io](https://codecov.io/github/tnagler/cctools/coverage.svg?branch=master)](https://codecov.io/github/tnagler/cctools?branch=master)
-[![CRAN version](http://www.r-pkg.org/badges/version/cctools)](https://cran.r-project.org/package=cctools)
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+[![codecov.io](https://codecov.io/github/tnagler/cctools/coverage.svg?branch=master)](https://app.codecov.io/github/tnagler/cctools?branch=master)
+[![CRAN version](https://www.r-pkg.org/badges/version/cctools)](https://CRAN.R-project.org/package=cctools)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 cctools is an R package implementing the uniform scaled beta distribution, a 
 generic function for continuous convolution, and the continuous convolution
@@ -39,5 +37,5 @@ For a detailed description, see the
 
 Nagler, T. (2017). *A generic approach to nonparametric function estimation
 with mixed data.*
-[arXiv:1704.07457](https://arxiv.org/pdf/1704.07457.pdf)
+[arXiv:1704.07457](https://arxiv.org/pdf/1704.07457)
 
